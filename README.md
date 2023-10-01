@@ -1,1 +1,2 @@
-# A simple webpage written in nextjs
+# A simple webpage written in Nextjs/Ts
+
