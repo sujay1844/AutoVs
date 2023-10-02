@@ -1,4 +1,4 @@
-# A simple webpage written in Nextjs/Ts
+# A simple webpage made using Nextjs/Ts
 
 Use these npm commands to:
 
