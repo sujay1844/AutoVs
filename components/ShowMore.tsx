@@ -1,4 +1,4 @@
-// components/ShowMore.js
+'use client'
 
 import { useState } from 'react';
 
